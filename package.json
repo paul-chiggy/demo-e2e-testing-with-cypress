@@ -1,0 +1,36 @@
+{
+  "name": "demo-cypress-ui",
+  "version": "1.0.0",
+  "description": "Demo project with Cypress for UI testing",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "lint": "eslint . --config eslint.config.ts",
+    "lint:fix": "eslint . --config eslint.config.ts --fix"
+  },
+  "devDpendencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-chiggy/demo-cypress-ui.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Test",
+    "Automation",
+    "Multi-layer architecture"
+  ],
+  "author": "Pavlo Chigishev",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.4.1",
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0",
+    "jiti": "^2.4.2",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.34.0"
+  }
+}

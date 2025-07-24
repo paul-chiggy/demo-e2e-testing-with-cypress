@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "strict": true,
+    "types": [
+      "cypress", "@testing-library/cypress"
+    ],
+    "baseUrl": "https://todomvc.com"
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    // exclude node_modules and Cypress support files
+    "node_modules",
+    "cypress/support"
+ ]
+}
