@@ -1,6 +1,6 @@
-# demo-cypress-ui
+# demo-e2e-testing-with-cypress
 
-Demo project with Cypress for UI test automation.
+Demo project with Cypress for end-to-end testing.
 
 ## Intro
 
