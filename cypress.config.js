@@ -3,6 +3,7 @@ import { defineConfig } from 'cypress'
 export default defineConfig({
   e2e: {
     baseUrl: 'https://todomvc.com',
+    experimentalStudio: true,
     viewportWidth: 1280,
     viewportHeight: 1024,
     retries: {

@@ -24,8 +24,8 @@
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.28.0",
-    "@testing-library/cypress": "^10.0.3",
-    "cypress": "^14.4.1",
+    "@testing-library/cypress": "^10.1.0",
+    "cypress": "^15.0.2",
     "eslint": "^9.28.0",
     "globals": "^16.2.0",
     "jiti": "^2.4.2",

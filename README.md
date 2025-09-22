@@ -12,7 +12,7 @@ This implementation encompases several test-cases testing the To-Do List functio
 
 ## How to run
 ### Pre-requisites
-- Node JS
+- Node JS (I used node `24.6.0`)
 - Git
 - Browsers (like Chrome or Firefox)
 - Docker - if you would like to run it in Docker
